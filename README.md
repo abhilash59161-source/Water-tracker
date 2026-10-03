@@ -85,3 +85,4 @@ NutriTrack runs as an installable Progressive Web App (PWA):
 ## 📄 License
 
 This project is licensed under the Apache-2.0 License.
+AquaFlow — A modern, interactive family hydration tracker built with React & Tailwind CSS featuring daily goal tracking, quick logging presets, liquid physics visuals, audio feedback, and JSON backup export.
